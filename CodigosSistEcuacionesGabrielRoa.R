@@ -11,7 +11,7 @@
 ###
 ### MÉTODO DE GAUSS-JORDAN:
 ### Como eliminación gaussiana, pero resulta en la matriz identidad nxn en lugar de una triangular superior/inferior
-### No necesita sustitución para resulver.
+### No necesita sustitución para resolver.
 ###
 
 GaussJordan<-function(A,b) { ### 
